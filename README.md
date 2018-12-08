@@ -22,7 +22,7 @@ As for feature extracter, it keeps 11 convolutional layers in original VGG model
 ## How To Use
 Here, we use an image of Sophie\[1\] from one of my favourite movie ```Howl's Moving Castle``` to show you how to use `i2v_pytorch` model.
 
-![Sophie](https://github.com/Mukosame/GAnime/blob/i2v_branch/illustration2vec/images/Sophie_howls_moving_castle.png?raw=true)
+![Sophie](https://github.com/AbbyYangbb/illustration2vec_PyTorch/blob/master/illustration2vec/images/Sophie_howls_moving_castle.png?raw=true)
 
 \[1]Howl's Moving Castle ([wiki](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)))(Japanese: ハウルの動く城 Hepburn: Hauru no Ugoku Shiro) is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki. 
 ### Tag Prediction
@@ -63,4 +63,5 @@ illust2vec.estimate_plausible_tags([img], threshold=0.5)
 ```
 
 We also have a video demo about this model. [Watch us on Youtube!](https://www.youtube.com/watch?v=ifVNqG2IwbI&feature=youtu.be)
+
 (Thanks [Xiaoyu](https://github.com/Mukosame) for coming up this idea and editing the video!)
