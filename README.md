@@ -64,4 +64,4 @@ illust2vec.estimate_plausible_tags([img], threshold=0.5)
 
 We also have a video demo about this model. [Watch us on Youtube!](https://www.youtube.com/watch?v=ifVNqG2IwbI&feature=youtu.be)
 
-(Thanks [Xiaoyu](https://github.com/Mukosame) for coming up this idea and editing the video!)
+(Thanks [Xiaoyu](https://github.com/Mukosame) for coming up this amazing demo idea and making the video come true!)
