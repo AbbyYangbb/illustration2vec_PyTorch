@@ -11,8 +11,6 @@ import torchvision.transforms as T
 import torch.nn.functional as F
 from torch.autograd import Variable
 
-
-
 class PytorchI2V(Illustration2VecBase):
     def __init__(self, *args, **kwargs):
         super(PytorchI2V, self).__init__(*args, **kwargs)
